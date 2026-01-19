@@ -1,4 +1,14 @@
 ## Hi there 👋
+Im Ndugelo a student doing my second year IT in software development based in south africa pretoria
+
+i cn design and build whatever i imaginde 
+if i have an idea i can build it and ship it
+i am planning to start doing projects hope i might collaborate with you
+
+fun facts:
+i used to hate code now i cant live without it
+i have two dogs 
+
 
 <!--
 **NdugeloMufanadzo/NdugeloMufanadzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
