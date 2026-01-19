@@ -6,7 +6,7 @@ if i have an idea i can build it and ship it
 i am planning to start doing projects hope i might collaborate with you
 
 fun facts:
-i used to hate code now i cant live without it
+i used to hate code now i cant live without it<br>
 i have two dogs 
 
 
