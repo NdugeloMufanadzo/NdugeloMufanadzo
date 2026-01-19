@@ -1,7 +1,7 @@
 ## Hi there 👋
 Im Ndugelo a student doing my second year IT in software development based in south africa pretoria
 
-i cn design and build whatever i imaginde <br>
+i can design and build whatever i imaginde <br>
 if i have an idea i can build it and ship it<br>
 i am planning to start doing projects hope i might collaborate with you<br>
 
