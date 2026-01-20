@@ -1,5 +1,5 @@
 ## Hi there 👋
-Im Ndugelo a student doing my second year IT in software development based in south africa pretoria
+Im <strong>Ndugelo</strong> a student doing my second year IT in software development based in South Africa pretoria
 
 i can design and build whatever i imaginde <br>
 if i have an idea i can build it and ship it<br>
