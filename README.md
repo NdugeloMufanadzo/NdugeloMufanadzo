@@ -5,7 +5,7 @@ i can design and build whatever i imaginde <br>
 if i have an idea i can build it and ship it<br>
 i am planning to start doing projects hope i might collaborate with you<br>
 
-fun facts:
+fun facts:<br>
 i used to hate code now i cant live without it<br>
 i have two dogs 
 
